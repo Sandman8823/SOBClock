@@ -1,4 +1,5 @@
 # SOBClock
+Satellite Observation Clock, it's also a SOB to tell the time with.
 Arduino Binary Clock - Using ring LEDs to show DOY and UTC time for satellite observing
 This is my first repository, and my first crack at an arduino project, go easy on me.
 Open to suggestions for cleaning up my code, it works, but is rather to verbose, in all the wrong ways.
